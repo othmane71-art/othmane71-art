@@ -4,14 +4,9 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othmane-abidi/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profil-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/othmaneabidi71)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:othmaneabidi71@gmail.com)
-
-![Top 2%](https://img.shields.io/badge/TryHackMe-Top_2%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Serie](https://img.shields.io/badge/Serie-203_jours-34d399?style=for-the-badge)
-![NSE](https://img.shields.io/badge/Fortinet-NSE_1--2--3-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
-![ISO](https://img.shields.io/badge/ISO%2FIEC-27001_Associate-0A66C2?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1220)](https://www.linkedin.com/in/othmane-abidi/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_2%25-34d399?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0b1220)](https://tryhackme.com/p/othmaneabidi71)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1220)](mailto:othmaneabidi71@gmail.com)
 
 </div>
 
@@ -58,23 +53,23 @@ Projet phare ECS Informatique, ci-dessous.
 
 **SIEM, EDR, détection**
 
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square) ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Kaspersky KATA/KEDR](https://img.shields.io/badge/Kaspersky_KATA%2FKEDR-006D5C?style=flat-square) ![Snort](https://img.shields.io/badge/Snort-EF3B24?style=flat-square) ![Suricata](https://img.shields.io/badge/Suricata-EF3B24?style=flat-square) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-B22222?style=flat-square)
+![Splunk](https://img.shields.io/badge/-Splunk-0ea5e9?style=for-the-badge&logo=splunk&logoColor=white&labelColor=0b1220) ![Wazuh](https://img.shields.io/badge/-Wazuh-0ea5e9?style=for-the-badge&logoColor=white&labelColor=0b1220) ![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-0ea5e9?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0b1220) ![Kaspersky KATA/KEDR](https://img.shields.io/badge/-Kaspersky_KATA%2FKEDR-0ea5e9?style=for-the-badge&logoColor=white&labelColor=0b1220) ![Snort](https://img.shields.io/badge/-Snort-0ea5e9?style=for-the-badge&logoColor=white&labelColor=0b1220) ![Suricata](https://img.shields.io/badge/-Suricata-0ea5e9?style=for-the-badge&logoColor=white&labelColor=0b1220) ![MITRE ATT&CK](https://img.shields.io/badge/-MITRE_ATT%26CK-0ea5e9?style=for-the-badge&logoColor=white&labelColor=0b1220)
 
 **Cloud et IAM**
 
-![AWS IAM](https://img.shields.io/badge/AWS_IAM-232F3E?style=flat-square) ![LocalStack](https://img.shields.io/badge/LocalStack-4D0DFF?style=flat-square) ![Prowler](https://img.shields.io/badge/Prowler-1F6FEB?style=flat-square) ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square)
+![AWS IAM](https://img.shields.io/badge/-AWS_IAM-d97706?style=for-the-badge&logoColor=white&labelColor=0b1220) ![LocalStack](https://img.shields.io/badge/-LocalStack-d97706?style=for-the-badge&logoColor=white&labelColor=0b1220) ![Prowler](https://img.shields.io/badge/-Prowler-d97706?style=for-the-badge&logoColor=white&labelColor=0b1220) ![Active Directory](https://img.shields.io/badge/-Active_Directory-d97706?style=for-the-badge&logoColor=white&labelColor=0b1220)
 
 **Réseau et architecture**
 
-![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white) ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white) ![VMware](https://img.shields.io/badge/VMware_Workstation-607078?style=flat-square&logo=vmware&logoColor=white) ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square)
+![FortiGate](https://img.shields.io/badge/-FortiGate-10b981?style=for-the-badge&logo=fortinet&logoColor=white&labelColor=0b1220) ![Cisco](https://img.shields.io/badge/-Cisco-10b981?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0b1220) ![pfSense](https://img.shields.io/badge/-pfSense-10b981?style=for-the-badge&logo=pfsense&logoColor=white&labelColor=0b1220) ![WireGuard](https://img.shields.io/badge/-WireGuard-10b981?style=for-the-badge&logo=wireguard&logoColor=white&labelColor=0b1220) ![VMware](https://img.shields.io/badge/-VMware_Workstation-10b981?style=for-the-badge&logo=vmware&logoColor=white&labelColor=0b1220) ![Hyper-V](https://img.shields.io/badge/-Hyper--V-10b981?style=for-the-badge&logoColor=white&labelColor=0b1220)
 
 **Offensif, forensics, analyse**
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square) ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Volatility](https://img.shields.io/badge/Volatility-333333?style=flat-square) ![YARA](https://img.shields.io/badge/YARA-8A2BE2?style=flat-square)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-ef4444?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0b1220) ![Nmap](https://img.shields.io/badge/-Nmap-ef4444?style=for-the-badge&logoColor=white&labelColor=0b1220) ![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-ef4444?style=for-the-badge&logoColor=white&labelColor=0b1220) ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-ef4444?style=for-the-badge&logoColor=white&labelColor=0b1220) ![Wireshark](https://img.shields.io/badge/-Wireshark-ef4444?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0b1220) ![Volatility](https://img.shields.io/badge/-Volatility-ef4444?style=for-the-badge&logoColor=white&labelColor=0b1220) ![YARA](https://img.shields.io/badge/-YARA-ef4444?style=for-the-badge&logoColor=white&labelColor=0b1220)
 
 **Automatisation et développement**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-8b5cf6?style=for-the-badge&logo=python&logoColor=white&labelColor=0b1220) ![PowerShell](https://img.shields.io/badge/-PowerShell-8b5cf6?style=for-the-badge&logo=powershell&logoColor=white&labelColor=0b1220) ![Bash](https://img.shields.io/badge/-Bash-8b5cf6?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0b1220) ![Ansible](https://img.shields.io/badge/-Ansible-8b5cf6?style=for-the-badge&logo=ansible&logoColor=white&labelColor=0b1220) ![Vagrant](https://img.shields.io/badge/-Vagrant-8b5cf6?style=for-the-badge&logo=vagrant&logoColor=white&labelColor=0b1220) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-8b5cf6?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0b1220) ![Git](https://img.shields.io/badge/-Git-8b5cf6?style=for-the-badge&logo=git&logoColor=white&labelColor=0b1220)
 
 <img src='assets/divider.svg' width='100%' alt=''>
 
@@ -208,9 +203,9 @@ Dépôt GOAD-Mini + Splunk + WireGuard, avec documentation complète.<br>
 
 <img src='assets/divider.svg' width='100%' alt=''>
 
-## 🏅 Régularité et apprentissage
+## 🏅 Apprentissage
 
-- **TryHackMe** : Top 2 %, série de 203 jours consécutifs, plus de 2 600 activités en 2026.
+- **TryHackMe** : Top 2 %.
 - **Certifications** : Fortinet NSE 1, 2 et 3, ISO/IEC 27001:2022 Information Security Associate, Cisco CCNA Foundations et Intermédiaire.
 
 ## 📬 Contact
